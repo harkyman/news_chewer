@@ -1,0 +1,6 @@
+httpx>=0.24
+trafilatura>=1.4
+beautifulsoup4>=4.12
+readability-lxml>=0.9
+requests>=2.31
+python-dotenv>=1.0

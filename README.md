@@ -1,0 +1,3 @@
+# news_chewer
+
+This application reads popular news aggregation sources, then attempts to classify the articles, determine if they meet the application's definition of "hard news". If so, it stores the article link, along with a summary and a headline. It maintains an encyclopedia-like overview of a handful of topics. It has the ability to generate an .html page that lets a user see all current and recent articles.
